@@ -1,6 +1,6 @@
 {
   "name": "output-compare",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Module for using the timer to drive an output on a pin.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
