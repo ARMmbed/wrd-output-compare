@@ -1,0 +1,23 @@
+{
+  "name": "output-compare",
+  "version": "0.0.0",
+  "description": "Module for using the timer to drive an output on a pin.",
+  "keywords": [],
+  "author": "Marcus Chang <marcus.chang@arm.com>",
+  "repository": {
+    "url": "git@github.com:ARMmbed/output-compare.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/ARMmbed/output-compare",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "targetDependencies": {
+    "efm32": {
+      "output-compare-efm32": "^1.0.0"
+    }
+  }
+}
