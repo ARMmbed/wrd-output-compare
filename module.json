@@ -17,7 +17,7 @@
   ],
   "targetDependencies": {
     "efm32": {
-      "output-compare-efm32": "^1.0.0"
+      "output-compare-efm32": "^2.0.0"
     }
   }
 }
