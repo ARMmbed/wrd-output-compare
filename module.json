@@ -17,7 +17,7 @@
   ],
   "targetDependencies": {
     "efm32": {
-      "wrd-output-compare-efm32": "^3.0.0"
+      "wrd-output-compare-efm32": "^3.1.0"
     }
   }
 }

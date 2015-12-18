@@ -14,11 +14,13 @@
  * limitations under the License.
  */
 
-#ifndef __OUTPUT_COMPARE_H__
-#define __OUTPUT_COMPARE_H__
+#ifndef __WRD_OUTPUT_COMPARE_H__
+#define __WRD_OUTPUT_COMPARE_H__
 
 #include <stdint.h>
 
+namespace wrd {
 bool OutputCompare(int pin, uint32_t period);
+};
 
-#endif // __OUTPUT_COMPARE_H__
+#endif // __WRD_OUTPUT_COMPARE_H__
