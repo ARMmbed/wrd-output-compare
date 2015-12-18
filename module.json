@@ -1,7 +1,7 @@
 {
-  "name": "output-compare",
+  "name": "wrd-output-compare",
   "version": "1.0.1",
-  "description": "Module for using the timer to drive an output on a pin.",
+  "description": "Wearable Reference Design power efficient output compare module.",
   "keywords": [],
   "author": "Marcus Chang <marcus.chang@arm.com>",
   "repository": {
@@ -17,7 +17,7 @@
   ],
   "targetDependencies": {
     "efm32": {
-      "output-compare-efm32": "^2.0.0"
+      "wrd-output-compare-efm32": "^3.0.0"
     }
   }
 }
