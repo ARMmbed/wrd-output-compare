@@ -17,7 +17,9 @@
   ],
   "targetDependencies": {
     "efm32": {
-      "wrd-output-compare-efm32": "^3.1.0"
+      "mbed-hal": "^1.2.0",
+      "mbed-hal-silabs": "^1.4.0",
+      "wrd-output-compare-efm32": "^4.0.0"
     }
   }
 }
